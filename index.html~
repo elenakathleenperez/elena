@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<!--
+	Epilogue by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Elena Kathleen Perez</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+				<div class="inner">
+					<h1>Capture</h1>
+					<p>A collection of photographs by Elena Perez</a></p>
+				</div>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Banner -->
+					<section id="intro" class="main">
+						<span class="icon fa-camera major"></span>
+						<h2>Elena Kathleen Perez</h2>
+						<p>I have a camera (& crew) and I'll take your photo better than LifeTouch.</p>
+						<ul class="actions">
+							<li><a href="index2.html" class="button big">about</a></li>
+						</ul>
+					</section>
+
+				<!-- Items -->
+					<section class="main items">
+						<article class="item">
+							<header>
+								<a href="templated-visualize/index3.html"><img src="images/hay.jpg" alt="" /></a>
+								<h3>Senior Photos</h3>
+							</header>
+							<p>A portrait is a crafted photograph of an individual. Every portrait is as original and distinct as the person it captures. Here is a collection of portraits I have taken. </p>
+							<ul class="actions">
+								<li><a href="templated-visualize/index3.html" class="button">Look</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="index4.html"><img src="images/stairs.jpg" alt="" /></a>
+								<h3>Pricing</h3>
+							</header>
+							<p>Compared to three other photographers in the Greater Eastside area my prices are a steal. The competition asks for anywhere from $250 - 500 for a two hour session, with additional charges. Whereas I offer . . . </p>
+							<ul class="actions">
+								<li><a href="index4.html" class="button">More</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="templated-visualize/index7.html"><img src="images/night.jpg" alt="" /></a>
+								<h3>Other Work</h3>
+							</header>
+							<p>I also take pictures of things other than people. One of my photographs was a finalist in a NatGeo Photo Contest. If you want to see that, click on the link and scroll down to <a href="http://ngstudentexpeditions.com/2016-photo-contest/winners-finalists">"The True Polar Plunge"<a/>.</p>
+							<ul class="actions">
+								<li><a href="templated-visualize/index7.html" class="button">see</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="index5.html"><img src="images/look.jpg" alt="" /></a>
+								<h3>Contact</h3>
+							</header>
+							<p>Find out how to contact me by clicking that button!</p>
+							<ul class="actions">
+								<li><a href="index5.html" class="button">Click</a></li>
+							</ul>
+						</article>
+					</section>
+
+				<!-- CTA -->
+					<section id="cta" class="main special">
+						<h2>Ready for the Photoshoot?</h2>
+						<p>Have you looked through my website and you're <br />
+						ready for the photoshoot (but still a little bit nervous)? <br />
+						Check out these tips to prepare for the shoot.</p>
+						<ul class="actions">
+							<li><a href="index8.html" class="button big">Photo Tips</a></li>
+						</ul>
+					</section>
+
+				<!-- Main -->
+				<!--
+					<section id="main" class="main">
+						<header>
+							<h2>Lorem ipsum dolor</h2>
+						</header>
+						<p>Fusce malesuada efficitur venenatis. Pellentesque tempor leo sed massa hendrerit hendrerit. In sed feugiat est, eu congue elit. Ut porta magna vel felis sodales vulputate. Donec faucibus dapibus lacus non ornare. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam eget neque id metus gravida tristique ac quis erat. Aenean quis aliquet sem. Ut ut elementum sem. Suspendisse eleifend ut est non dapibus. Nulla porta, neque quis pretium sagittis, tortor lacus elementum metus, in imperdiet ante lorem vitae ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+					</section>
+				-->
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
